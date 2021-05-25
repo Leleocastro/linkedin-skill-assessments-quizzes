@@ -1014,3 +1014,11 @@ grid-template-columns: 2fr 1fr;
 - [ ] The first column is half the size of the container and the second column will absorb the remaining space
 - [ ] The first column is twice as wide as the second column and will fit proportionally within the grid container
 - [ ] The first column is twice the width and height of the second column, and will fit proportionally within the grid container
+
+#### Q85. Which choice would give a block element rounded corners?
+
+
+- [ ] corners-curve: 10px;
+- [x] border-radius: 10px;
+- [ ] corner-radius: 10px;
+- [ ] border-corner: 10px;
